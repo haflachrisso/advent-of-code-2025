@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{4AA7B0DF-6184-4ED2-8130-CEB8165BB157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dial", "Dial\Dial.csproj", "{6C22FD74-0C19-491D-8737-62D98315DAAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialTest", "DialTest\DialTest.csproj", "{754E91F4-531E-47AE-80BF-7B99C2999478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA7B0DF-6184-4ED2-8130-CEB8165BB157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA7B0DF-6184-4ED2-8130-CEB8165BB157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA7B0DF-6184-4ED2-8130-CEB8165BB157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA7B0DF-6184-4ED2-8130-CEB8165BB157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C22FD74-0C19-491D-8737-62D98315DAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C22FD74-0C19-491D-8737-62D98315DAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C22FD74-0C19-491D-8737-62D98315DAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C22FD74-0C19-491D-8737-62D98315DAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754E91F4-531E-47AE-80BF-7B99C2999478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754E91F4-531E-47AE-80BF-7B99C2999478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754E91F4-531E-47AE-80BF-7B99C2999478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754E91F4-531E-47AE-80BF-7B99C2999478}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
